@@ -1,14 +1,35 @@
-# Roku-Flashback
+# Roku Flashback
 
 ## Description 
+Roku Flashback is a subscription streaming service app that allows members to watch TV shows, movies and music without commercials on an internet-connect device. Our content is divided by decades, such as the 50s, 60s, 70s, 80s and 90s. Each decade presents a specific range of content for each age.      
 
-## Sizes Of The Screens
+## Languages 
+- Html
+- Sass
+- JavaScript 
+## Brand Colours 
 
 ## Brand Typography 
 
+## Instalation
+- Installation is not needed.
+
+## Usage 
+You may:
+
+- Create an streaming app.
+
+## Contributing 
+Fork it!
+
+- Create your feature branch: git checkout -b my-new-feature
+- Commit your changes
+- Push to the branch: git push origin my-new-feature
+- Submit a pull request :)
+
 
 ## MIT LICENSE 
-Copyright 2022 Aixin Zhong, Inderpal Singh Brar, Nathálya Menezes and Seunghyeon Yeom
+Copyright 2022 Nathálya Menezes and Tallyta Triolo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
