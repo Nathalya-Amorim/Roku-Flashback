@@ -11,7 +11,7 @@ Roku Flashback is a subscription streaming service app that allows members to wa
 
 ## Brand Typography 
 
-## Instalation
+## Installation
 - Installation is not needed.
 
 ## Usage 
