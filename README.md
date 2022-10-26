@@ -3,16 +3,22 @@
 ## Description 
 Roku Flashback is a subscription streaming service app that allows members to watch TV shows, movies and music without commercials on an internet-connect device. Our content is divided by decades, such as the 50s, 60s, 70s, 80s and 90s. Each decade presents a specific range of content for each age.      
 
-## Languages 
+## Languages / Tools 
 - Html
 - Sass
 - JavaScript 
+
+- Json object
+
 ## Brand Colours 
 
 ## Brand Typography 
 
 ## Installation
 - Installation is not needed.
+
+## DevNotes
+- [DevNotes - Steps to develop a Streaming App](https://docs.google.com/document/d/19NW8daNI6B0ODU-EX8e2dWSNW2-RoDBZMj8Q9c9nJKI/edit?usp=sharing)
 
 ## Usage 
 You may:
