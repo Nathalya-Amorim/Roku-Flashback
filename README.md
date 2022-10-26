@@ -18,7 +18,7 @@ Roku Flashback is a subscription streaming service app that allows members to wa
 - Installation is not needed.
 
 ## DevNotes
-- [DevNotes - Steps to develop a Streaming App](https://docs.google.com/document/d/19NW8daNI6B0ODU-EX8e2dWSNW2-RoDBZMj8Q9c9nJKI/edit?usp=sharing)
+- [DevNotes - RoadMap](https://docs.google.com/document/d/19NW8daNI6B0ODU-EX8e2dWSNW2-RoDBZMj8Q9c9nJKI/edit?usp=sharing)
 
 ## Usage 
 You may:
