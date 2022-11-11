@@ -11,7 +11,7 @@ Roku Flashback is a subscription streaming service app that allows members to wa
 - Sass
 - JavaScript 
 
-- Json object
+- Green Socks Library
 - Vue.js
 
 ## Brand Colours 
