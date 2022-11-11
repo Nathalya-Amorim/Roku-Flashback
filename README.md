@@ -26,7 +26,7 @@ Roku Flashback is a subscription streaming service app that allows members to wa
 ## Usage 
 You may:
 
-- Create an streaming app.
+- Create a streaming app.
 
 ## Contributing 
 Fork it!
