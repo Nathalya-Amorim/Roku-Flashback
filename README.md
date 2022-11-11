@@ -1,4 +1,8 @@
 # Roku Flashback
+<p align="center">
+<img src="./assets/rokuGit.svg" width="300" style="margin:auto; display:block">
+</p>
+
 
 ## Description 
 Roku Flashback is a subscription streaming service app that allows members to watch TV shows, movies and music without commercials on an internet-connect device. Our content is divided by decades, such as the 50s, 60s, 70s, 80s and 90s. Each decade presents a specific range of content for each age.      
