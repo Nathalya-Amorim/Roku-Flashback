@@ -1,0 +1,128 @@
+
+//COLORS
+$color-Dune:rgb(45, 42, 38);
+$color-TulipTree: rgb(239, 192, 62);
+$color-Studio:rgb(122, 77, 168);
+$color-MoodyBlue: rgb(136, 134, 208);
+
+
+//FONT
+$ff-primary:'Mazzard', sans-serif ;
+$ff-secondary: 'Arenq', sans-serif;
+
+//HEADING
+@mixin h1heading {
+    font-size: 48px;
+    font-weight: bold;
+    font-family: $ff-mazzard;
+}
+
+@mixin h2heading {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: $ff-mazzard;
+}
+
+@mixin h3heading {
+    font-size: 26px;
+    font-family: $ff-mazzard;
+}
+
+@mixin h4heading {
+    font-size: 20px;
+    font-family: $ff-mazzard;
+}
+
+@mixin h5heading {
+    font-size: 18px;
+    font-family: $ff-mazzard;
+}
+
+@mixin h6heading {
+    font-size: 16px;
+    font-family: $ff-mazzard;
+}
+
+//BUTTONS
+@mixin btnPrimaryL {
+  color: $color-Studio;
+  background-color: $color-TulipTree;
+  font-size: 25px;
+  font-family: $ff-primary;
+//   box-shadow: 2px gray;
+  text-transform: uppercase;
+  transition: all ease-in-out .3s;
+  padding: 12px;
+  min-width: 200px;
+  border-radius: 30px;
+
+  &:hover {
+    color: white;
+    background-color: $color-Studio;
+    // -webkit-box-shadow: 0px 0px 20px 2px gray;
+    // box-shadow: 0px 0px 20px 2px gray;
+    transform: scale(1.0);
+  }
+}
+
+@mixin btnSecondaryL {
+
+  color: $color-TulipTree;
+  background-color: $color-MoodyBlue;
+  font-size: 25px;
+  font-family: $ff-primary;
+//   box-shadow: 2px gray;
+  text-transform: uppercase;
+  transition: all ease-in-out .3s;
+  padding: 12px;
+  min-width: 200px;
+  border-radius: 30px;
+
+  &:hover {
+    color: white;
+    background-color: $color-MoodyBlue;
+    // -webkit-box-shadow: 0px 0px 20px 2px gray;
+    // box-shadow: 0px 0px 20px 2px gray;
+    transform: scale(1.0);
+  }
+
+}
+
+@mixin btnTertiaryL {
+  
+  color: $color-TulipTree;
+  background-color: $color-Studio;
+  font-size: 25px;
+  font-family: $ff-primary;
+//   box-shadow: 2px gray;
+  text-transform: uppercase;
+  transition: all ease-in-out .3s;
+  padding: 12px;
+  min-width: 200px;
+  border-radius: 30px;
+
+  &:hover {
+    border: 3px solid $color-Studio;
+    color: $color-Studio;
+    background-color: white;
+    // -webkit-box-shadow: 0px 0px 20px 2px gray;
+    // box-shadow: 0px 0px 20px 2px gray;
+    transform: scale(1.0);
+  }
+}
+
+
+
+
+
+
+.btn {
+    @include btnPrimaryL;
+}
+
+.btn1 {
+    @include btnSecondaryL;
+}
+.btn2 {
+    @include btnTertiaryL;
+}
