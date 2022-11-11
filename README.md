@@ -1,4 +1,3 @@
-# Roku Flashback
 <p align="center">
 <img src="./assets/rokuGit.svg" width="300" style="margin:auto; display:block">
 </p>
