@@ -21,6 +21,11 @@ Roku Flashback is a subscription streaming service app that allows members to wa
 ## DevNotes
 - [DevNotes - RoadMap](https://miro.com/app/board/uXjVPIwo3pg=/?share_link_id=818805036423)
 
+## DesignNotes
+- [DesignNotes - Style Documentation](https://drive.google.com/drive/folders/1aK1_UH5w1AyKIIAHMBpXOVI8o9pWshB-?usp=share_link)
+
+- [Wireframe - Prototyping Link](https://xd.adobe.com/view/1bdf9ccf-d46a-4840-8963-0ee193a76227-4e8c/?fullscreen)
+
 ## Usage 
 You may:
 
